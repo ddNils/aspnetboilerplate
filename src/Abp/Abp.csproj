@@ -82,6 +82,10 @@
   <ItemGroup>
     <Compile Include="AbpConsts.cs" />
     <Compile Include="AbpServiceBase.cs" />
+    <Compile Include="Application\Services\Dto\FileEntityDto.cs" />
+    <Compile Include="Application\Services\Dto\FileEntityDtoOfTPrimaryKey.cs" />
+    <Compile Include="Application\Services\Dto\ImageFileEntityDto.cs" />
+    <Compile Include="Application\Services\Dto\ImageFileEntityDtoOfTPrimaryKey.cs" />
     <Compile Include="Dependency\SingletonDependency.cs" />
     <Compile Include="Application\Features\Feature.cs" />
     <Compile Include="Application\Features\FeatureChecker.cs" />
